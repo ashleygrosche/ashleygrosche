@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi, I’m Ashley 🌱
+================
 
-<!--
-**ashleygrosche/ashleygrosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a microbial ecologist researching community interactions of
+microbes.
 
-Here are some ideas to get you started:
+My current work investigates the microbiology of subsurface environments
+as part geo-energy technologies consortium Science for Clean Energy
+[(S4CE)](#https://science4cleanenergy.eu/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My postdoctoral reasearch is being carried out with the [Maignien
+group](#https://pagesperso.univ-brest.fr/~maignien/index.html),
+Microbial EcoGenomics at the European Institute of Marine Studies
+[(IUEM)](#https://www-iuem.univ-brest.fr/?lang=en) in Plouzané, France.
+
+## Find me around the web:
+
+  - Sharing updates on
+    [LinkedIn](#https://www.linkedin.com/in/ashley-grosche/)
+  - Working with the Science for Clean Energy consortium
+    [(S4CE)](#http://science4cleanenergy.eu/resources/articles/subsurfacemicrobes/)
+  - In the
+    [lab](#https://pagesperso.univ-brest.fr/~maignien/people.html)
